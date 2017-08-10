@@ -650,7 +650,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   padding-bottom: 60px; }
 
 .mbr-section-title {
-  margin-top: 0; }
+  margin-top: 0; 
+  }
 
 .mbr-section__container--first {
   padding-top: 120px;
