@@ -495,7 +495,7 @@ p.lead,
     white-space: pre-wrap; }
 
 .display-1 {
-  font-size: 4.39rem;
+  font-size: 2.39rem;
   font-weight: 600;
   letter-spacing: -2px;
   margin-bottom: 0.2843em;
@@ -684,7 +684,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   font-size: 17px;
   font-family: "Lora";
   line-height: 26px;
-  color: #8c8c8c;
+  color: #466ec4;
   margin-bottom: 30px; }
 
 .mbr-section-title + .mbr-section-subtitle {
